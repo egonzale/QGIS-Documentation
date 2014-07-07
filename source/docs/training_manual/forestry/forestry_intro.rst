@@ -20,7 +20,7 @@ The general sample data (aerial images, LiDAR data, basic maps) has been obtaine
 
 .. warning::
 
-   As for the rest of the training manual, this module includes instructions on adding,
+   Like the rest of the training manual, this module includes instructions on adding,
    deleting and altering GIS datasets. We have provided training datasets for this purpose.
    Before using the techniques described here on your own data, always ensure you have
    proper backups!
